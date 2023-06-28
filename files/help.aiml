@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>hello</pattern>
+        <template>Hello! Welcome to the WGU world of Chatbots. If you are ready for your own personal careerbot to help you find a career type "begin".</template>
+    </category>
+    <category>
+        <pattern>hi</pattern>
+        <template>Hello! Welcome to the WGU world of Chatbots. If you are ready for your own personal careerbot to help you find a career type "begin".</template>
+    </category>
+        
+    <category>
+        <pattern>help ^ </pattern>
+        <template>For additional help, it is best to schedule an appointment with a student advisor. Please select your ideal appointment time below.
+            <button>
+                <text>10:00:00 AM PST</text>
+                <postback>thank you</postback>
+            </button>
+            <button>
+                <text>12:00:00 PM PST</text>
+                <postback>thank you</postback>
+            </button>
+            <button>
+                <text>1:00:00 PM PST</text>
+                <postback>thank you</postback>
+            </button>
+            <button>
+                <text>3:00:00 PM PST</text>
+                <postback>thank you</postback>
+            </button>
+            <button>
+                <text>4:00:00 PM PST</text>
+                <postback>thank you</postback>
+            </button>
+        </template>
+    </category>
+    <category>
+        <pattern>thank you</pattern>
+        <template>Thank you, and sorry careerbot couldn't help you. We'll get you in touch with a real living breathing person to help you. 
+        </template>
+    </category>
+    <category>
+        <pattern>support ^</pattern>
+        <template>Please type "help" to schedule an appointment.</template>
+    </category>
+    <category>
+        <pattern>schedule ^</pattern>
+        <template>Please type "help" to schedule an appointment.</template>
+    </category>
+    <category>
+        <pattern>appointment ^</pattern>
+        <template>Please type "help" to schedule an appointment.</template>
+    </category>
+    
+    <category>
+        <pattern>no suggested job</pattern>
+        <template>You have some unique skills, we don't have a sorting hat so we will just have to get you a meeting with an advisor. Please type "help" to schedule an appointment!</template>
+    </category>
+    
+</aiml>
