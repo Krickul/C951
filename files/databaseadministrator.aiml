@@ -2,7 +2,7 @@
 <aiml version="2.0">
 	<category>
         <pattern>database administrator</pattern>
-        <template>Database Administrators are responsible for using databases to store, organize, and protect data. They also plan and develop databases, as well as assuring smooth user access of the database.
+        <template>Database Administrators play a vital role in managing data by utilizing databases for storage, organization, and protection. They are responsible for planning, developing, and ensuring seamless user access to databases.
             <br></br> <br></br>
             <link>
                 <text> Click here to learn more about Database administrators.</text>
@@ -20,13 +20,13 @@
     </category>
 	<category>
         <pattern>database administrator question</pattern>
-        <template>We think you should consider becoming a database administrator!
+        <template>Based on our assessment, we highly recommend considering a career as a database administrator!
         <br></br><br></br>
-        Database Administrators are responsible for using databases to store, organize, and protect data. They also plan and develop databases, as well as assuring smooth user access of the database.
+        Database Administrators play a vital role in managing data by utilizing databases for storage, organization, and protection. They are responsible for planning, developing, and ensuring seamless user access to databases.
             <br></br> <br></br>
             <link>
                 <text> Click here to learn more about Database administrators.</text>
-                <url>https://targetjobs.co.uk/careers-advice/job-descriptions/279209-database-administrator-job-description</url>
+                <url>https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm#tab-2</url>
             </link>
             <button>
                 <text>Click here to explore other careers.</text>

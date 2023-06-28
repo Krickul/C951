@@ -2,7 +2,7 @@
 <aiml version="2.0">
 	 <category>
         <pattern>web developer</pattern>
-        <template>Web developers are involved of all aspects of creating, coding, and modifying websites. They create layouts, integrate graphics, and install user-friendly features into websites, as well as ensuring that web pages are easily accessible across different browsers and interfaces.
+        <template>Web developers are engaged in every stage of website creation, coding, and customization. They design page layouts, incorporate visuals, and implement user-friendly functionalities. Additionally, they ensure cross-browser compatibility and seamless user experience across various interfaces.
             <br></br> <br></br>
             <link>
                 <text> Click here to learn more about Web developers.</text>
@@ -20,12 +20,12 @@
     </category>
     <category>
         <pattern>web developer question</pattern>
-        <template>We think you should consider becoming a web developer!
-        <br></br><br></br>Web developers are involved of all aspects of creating, coding, and modifying websites. They create layouts, integrate graphics, and install user-friendly features into websites, as well as ensuring that web pages are easily accessible across different browsers and interfaces.
+        <template>Based on our assessment, we highly recommend considering a career as a web developer!
+        <br></br><br></br>Web developers are engaged in every stage of website creation, coding, and customization. They design page layouts, incorporate visuals, and implement user-friendly functionalities. Additionally, they ensure cross-browser compatibility and seamless user experience across various interfaces.
             <br></br> <br></br>
             <link>
                 <text> Click here to learn more about Web developers.</text>
-                <url>https://www.thebalancecareers.com/web-developer-job-description-salary-and-skills-2061841</url>
+                <url>https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-2</url>
             </link>
             <button>
                 <text>Click here to explore other careers.</text>
