@@ -3,7 +3,7 @@
     
     <category>
         <pattern>begin</pattern>
-        <template>Welcome! I am the careerbot for computer science students. Ready to find a career? make a selection below. 
+        <template>Welcome! I am the careerbot for computer science students. Ready to find a career? Make a selection below. 
             <button>
                 <text>5 excellent careers for computer science graduates</text>
                 <postback>top careers</postback>
